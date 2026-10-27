@@ -133,3 +133,9 @@ SOLIDWORKS thread profile, SLDLFP, custom thread profile, lens filter thread, ca
 thread, filter thread pitch 0.75 mm, filter thread pitch 0.5 mm, M52x0.75, M58x0.75, M62x0.75,
 M67x0.75, M72x0.75, M77x0.75, M82x0.75, M49x0.75, M55x0.75, M40.5x0.5, M37x0.75, step-up ring,
 step-down ring, lens cap, filter adapter, 3D print lens thread, fine metric thread SOLIDWORKS.
+
+## License
+
+[MIT](LICENSE). You can use, change and share these files, also in commercial work.
+SOLIDWORKS is a trademark of Dassault Systèmes. This project is not made or supported by
+Dassault Systèmes.
